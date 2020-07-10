@@ -4,6 +4,9 @@ Working with Web Development since 2008; Always interested in learning a little 
 
 - I'm creator of the [Nerd Calistênico](https://nerdcalistenico.com.br) website
 
+## Organizations
+
+- ![https://avatars2.githubusercontent.com/u/13304511?s=60&v=4](https://github.com/org-descco)
 
 ## Where can you find more about me:
 
