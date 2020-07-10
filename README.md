@@ -6,7 +6,7 @@ Working with Web Development since 2008; Always interested in learning a little 
 
 ## Organizations
 
-- ![https://user-images.githubusercontent.com/1963897/87104440-521ae580-c22e-11ea-839d-0f1e2c2f3975.jpeg](https://github.com/org-descco)
+- <a href="https://github.com/org-descco"><img src="https://avatars2.githubusercontent.com/u/13304511?s=60&v=4" alt="ORG Descco" /></a></li>
 
 ## Where can you find more about me:
 
