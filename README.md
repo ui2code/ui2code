@@ -20,18 +20,18 @@ Working with Web Development since 2008; Always interested in learning a little 
 
 |||
 |--|--|
-|<a href="https://github.com/hdquarters"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/13304511" alt="Headquarters" /></a> | Headquarters - organization of ideas, documentation for the group's projects and websites. |
-|<a href="https://github.com/w3dotdev"><img width="45" height="40" src="https://avatars0.githubusercontent.com/u/16153633" alt="W3 .dev" /></a> | W3.dev - preferences, tools and settings for a developer.|
-|<a href="https://github.com/sxsarena"><img width="45" height="40" src="https://avatars1.githubusercontent.com/u/20724046" alt="SxS Arena" /></a> | Side by Side Arena - The best way to test libraries and frameworks is to place them side by side.|
-|<a href="https://github.com/vctrnx"><img width="45" height="40" src="https://avatars0.githubusercontent.com/u/26970146" alt="Victorinox" /></a> | Victorinox  - Resources needed for development, making the process more practical. Divided into 20 categories.|
-|<a href="https://github.com/nekhemievich"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/27102369" alt="Nekhemievich" /></a> | Nekhemievich - Intended for the most ambitious projects of the group.|
-|<a href="https://github.com/hesiod3c"><img width="45" height="40" src="https://avatars3.githubusercontent.com/u/30731635" alt="Hesiod and " /></a> | Hesiod - Focusing on the user interface, which tries to cover the libraries and frameworks of the market.|
-|<a href="https://github.com/malrondon"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/49529560" alt="Mal. Rondon" /></a> | Mal. Rondon - Boilerplate - basis to be used in projects.|
-|<a href="https://github.com/tgkr"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/55669171" alt="Togakure" /></a> | Togakure - UI components with React, Angular, Vue and Vanilla.|
-|<a href="https://github.com/3s2yu"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/55886185" alt="3s2yu" /></a> | 3s2yu - Mobile App factory.|
-|<a href="https://github.com/o2minerva"><img width="45" height="40" src="https://avatars1.githubusercontent.com/u/61127091" alt="Owl of Minerva" /></a> | Owl of Minerva - didactic content available for consultation and with examples.|
-|<a href="https://github.com/allmyths"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/67839590" alt="Mythological Alliance" /></a> | Mythological Alliance - Projects to help the development community.|
-|<a href="https://github.com/org-nerdcalistenico"><img width="45" height="40" src="https://avatars3.githubusercontent.com/u/68088436" alt="Nerd Calistênico" /></a> | Nerd Calistênico - Management of all developed projects.|
+|<a href="https://github.com/hdquarters"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/13304511" alt="Headquarters" /></a> | **Headquarters** - organization of ideas, documentation for the group's projects and websites. |
+|<a href="https://github.com/w3dotdev"><img width="45" height="40" src="https://avatars0.githubusercontent.com/u/16153633" alt="W3 .dev" /></a> | **W3.dev** - preferences, tools and settings for a developer.|
+|<a href="https://github.com/sxsarena"><img width="45" height="40" src="https://avatars1.githubusercontent.com/u/20724046" alt="SxS Arena" /></a> | **Side by Side Arena** - The best way to test libraries and frameworks is to place them side by side.|
+|<a href="https://github.com/vctrnx"><img width="45" height="40" src="https://avatars0.githubusercontent.com/u/26970146" alt="Victorinox" /></a> | **Victorinox**  - Resources needed for development, making the process more practical. Divided into 20 categories.|
+|<a href="https://github.com/nekhemievich"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/27102369" alt="Nekhemievich" /></a> | **Nekhemievich** - Intended for the most ambitious projects of the group.|
+|<a href="https://github.com/hesiod3c"><img width="45" height="40" src="https://avatars3.githubusercontent.com/u/30731635" alt="Hesiod and " /></a> | **Hesiod** - Focusing on the user interface, which tries to cover the libraries and frameworks of the market.|
+|<a href="https://github.com/malrondon"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/49529560" alt="Mal. Rondon" /></a> | **Mal. Rondon** - Boilerplate - basis to be used in projects.|
+|<a href="https://github.com/tgkr"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/55669171" alt="Togakure" /></a> | **Togakure** - UI components with React, Angular, Vue and Vanilla.|
+|<a href="https://github.com/3s2yu"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/55886185" alt="3s2yu" /></a> | **3s2yu** - Mobile App factory.|
+|<a href="https://github.com/o2minerva"><img width="45" height="40" src="https://avatars1.githubusercontent.com/u/61127091" alt="Owl of Minerva" /></a> | **Owl of Minerva** - didactic content available for consultation and with examples.|
+|<a href="https://github.com/allmyths"><img width="45" height="40" src="https://avatars2.githubusercontent.com/u/67839590" alt="Mythological Alliance" /></a> | **Mythological Alliance** - Projects to help the development community.|
+|<a href="https://github.com/nerdcalistenico"><img width="45" height="40" src="https://avatars3.githubusercontent.com/u/68088436" alt="Nerd Calistênico" /></a> | **Nerd Calistênico** - Management of all developed projects.|
 |||
 
 ## Where can you find more about me:
