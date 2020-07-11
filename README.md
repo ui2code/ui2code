@@ -1,19 +1,17 @@
 # Hemerson Vianna - @hemersonvianna
 
-Working with Web Development since 2008; Always interested in learning a little more of Project Management, Design, UI/UX, SEO, Development ...
-
-- I'm creator of the [Nerd Calistênico](https://nerdcalistenico.com.br) website
+- 🧭 &nbsp; Working with Web Development since 2008
+- 📚 &nbsp; Always interested in learning a little more of Project Management, Design, UI/UX, SEO, Development ...
+- 🇧🇷 &nbsp; Living in Rio de Janeiro, Brazil
+- 🖥 &nbsp; I'm creator of the [Nerd Calistênico](https://nerdcalistenico.com.br) website
 
 ## Blogs
 
-||||
-|--|--|--|
-|:computer: &nbsp; [Hemerson Vianna](https://nerdcalistenico.com.br/hemersonvianna/) | :movie_camera: &nbsp; [IMHO Movies](https://nerdcalistenico.com.br/imhomovies/) | :books: &nbsp; [Zamenhof](https://nerdcalistenico.com.br/zamenhof/) |
-| :stew: &nbsp; [Sabor Instintivo](https://nerdcalistenico.com.br/saborinstintivo/) | :bar_chart: &nbsp; [Foco no Capital](https://nerdcalistenico.com.br/foconocapital/) | :airplane: &nbsp; [Jornada Relevante](https://nerdcalistenico.com.br/jornadarelevante/) |
-| :notes: &nbsp; [Sonus et Rhythmus](https://nerdcalistenico.com.br/sonusetrhythmus/) | :earth_americas: &nbsp; [Fora da bolha](https://nerdcalistenico.com.br/foradabolha/) | :video_game: &nbsp; [Noob da Era 8 bits](https://nerdcalistenico.com.br/noobdaera8bits/) |
-||||
+:computer: &nbsp; [Hemerson Vianna](https://nerdcalistenico.com.br/hemersonvianna/) &nbsp;| :movie_camera: &nbsp; [IMHO Movies](https://nerdcalistenico.com.br/imhomovies/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| :books: &nbsp; [Zamenhof](https://nerdcalistenico.com.br/zamenhof/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| :stew: &nbsp; [Sabor Instintivo](https://nerdcalistenico.com.br/saborinstintivo/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| :bar_chart: &nbsp; [Foco no Capital](https://nerdcalistenico.com.br/foconocapital/)
 
-## Organizations
+:airplane: &nbsp; [Jornada Relevante](https://nerdcalistenico.com.br/jornadarelevante/) | :notes: &nbsp; [Sonus et Rhythmus](https://nerdcalistenico.com.br/sonusetrhythmus/) | :earth_americas: &nbsp; [Fora da bolha](https://nerdcalistenico.com.br/foradabolha/) | :video_game: &nbsp; [Noob da Era 8 bits](https://nerdcalistenico.com.br/noobdaera8bits/)
+
+## Projects
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
 |:--:|--|:--:|--|
