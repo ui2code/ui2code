@@ -1,5 +1,7 @@
 # Hemerson Vianna - @hemersonvianna
 
+> <code> ![Page View](https://visitor-badge.glitch.me/badge?page_id=hemersonvianna.visitor-badge) </code> since 07.13.2020
+
 - 🧭 &nbsp; Working with Web Development since 2008
 - 📚 &nbsp; Always interested in learning a little more of project management, ui, ux, seo, development, infrastructure ...
 - 🇧🇷 &nbsp; Living in Rio de Janeiro, Brazil
