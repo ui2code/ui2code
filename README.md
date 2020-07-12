@@ -1,7 +1,7 @@
 # Hemerson Vianna - @hemersonvianna
 
 - 🧭 &nbsp; Working with Web Development since 2008
-- 📚 &nbsp; Always interested in learning a little more of Project Management, Design, UI/UX, SEO, Development ...
+- 📚 &nbsp; Always interested in learning a little more of project management, ui, ux, seo, development, infrastructure ...
 - 🇧🇷 &nbsp; Living in Rio de Janeiro, Brazil
 - 🖥 &nbsp; I'm creator of the [Nerd Calistênico](https://nerdcalistenico.com.br) website
 - 🏃 &nbsp; Calisthenics practitioner
