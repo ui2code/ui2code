@@ -1,6 +1,6 @@
 # Hemerson Vianna - @hemersonvianna
 
-> <code>![Page View](https://visitor-badge.glitch.me/badge?page_id=hemersonvianna.visitor-badge)</code> since 07.13.2020
+ > <code>![Twitter](https://img.shields.io/badge/-Twitter-lightskyblue?logo=Twitter&logoColor=white&link=https://twitter.com/hemersonvianna)</code>&nbsp;<code>![Instagram](https://img.shields.io/badge/-Instagram-steelblue?logo=Instagram&logoColor=white&link=https://instagram.com/hemerson.vianna)</code>&nbsp;<code>![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:hemerson.lourenco@gmail.com)</code>&nbsp;<code>![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemersonvianna)</code>&nbsp;<code>![Page View](https://visitor-badge.glitch.me/badge?page_id=hemersonvianna.visitor-badge)</code> since 07.13.2020
 
 - 🧭 &nbsp; Working with Web Development since 2008
 - 📚 &nbsp; Always interested in learning a little more of project management, ui, ux, seo, development, infrastructure ...
@@ -30,8 +30,4 @@
 > <code><a href="https://github.com/allmyths"><img width="32" height="32" src="https://avatars2.githubusercontent.com/u/67839590" alt="Mythological Alliance" /></a></code> **Mythological Alliance** - Projects to help the development community.<br>
 > <code><a href="https://github.com/nerdcalistenico"><img width="32" height="32" src="https://avatars3.githubusercontent.com/u/68088436" alt="Nerd Calistênico" /></a></code> **Nerd Calistênico** - Management of all developed projects.<br>
 
-## Where can you find more about me:
-
-- Twitter: [https://twitter.com/hemersonvianna](https://twitter.com/hemersonvianna)
-- LinkedIn: [https://www.linkedin.com/in/hemersonvianna/](https://www.linkedin.com/in/hemersonvianna/)
-- Instagram: [https://www.instagram.com/hemerson.vianna/](https://www.instagram.com/hemerson.vianna/)
+![Hemerson Vianna's github stats](https://github-readme-stats.vercel.app/api?username=hemersonvianna&hide=[%22stars%22]&hide_border=true&hide_rank=true)
