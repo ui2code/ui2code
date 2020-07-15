@@ -1,6 +1,11 @@
 # Hemerson Vianna - @hemersonvianna
 
- > <code>[![Twitter](https://img.shields.io/badge/-Twitter-lightskyblue?logo=Twitter&logoColor=white)](https://twitter.com/hemersonvianna)</code>&nbsp;<code>[![Instagram](https://img.shields.io/badge/-Instagram-steelblue?logo=Instagram&logoColor=white)](https://instagram.com/hemerson.vianna)</code>&nbsp;<code>[![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:hemerson.lourenco@gmail.com)</code>&nbsp;<code>[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemersonvianna)</code>&nbsp;<code>![Page View](https://visitor-badge.glitch.me/badge?page_id=hemersonvianna.visitor-badge)</code> since 07.13.2020
+<sup>[![Twitter](https://img.shields.io/badge/-Twitter-lightskyblue?logo=Twitter&logoColor=white)](https://twitter.com/hemersonvianna)</sup>
+<sup>[![Instagram](https://img.shields.io/badge/-Instagram-steelblue?logo=Instagram&logoColor=white)](https://instagram.com/hemerson.vianna)</sup>
+<sup>[![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:hemerson.lourenco@gmail.com)</sup>
+<sup>[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemersonvianna)</sup>
+<sup>![Page View](https://visitor-badge.glitch.me/badge?page_id=hemersonvianna.visitor-badge)</sup>
+<sup>since 07.13.2020</sup>
 
 - 🧭 &nbsp; Working with Web Development since 2008
 - 📚 &nbsp; Always interested in learning a little more of project management, ui, ux, seo, development, infrastructure ...
@@ -11,7 +16,15 @@
 
 ## Blogs
 
-[![Hemerson Vianna](https://img.shields.io/badge/Hemerson%20Vianna-💻-purple?logoColor=white)](https://nerdcalistenico.com.br/hemersonvianna/) &nbsp; [![IMHO Movies](https://img.shields.io/badge/IMHO%20Movies-🎥-brown?logoColor=white)](https://nerdcalistenico.com.br/imhomovies/) &nbsp; [![Zamenhof](https://img.shields.io/badge/Zamenhof-📚-darkblue?logoColor=white)](https://nerdcalistenico.com.br/zamenhof/) &nbsp; [![Sabor Instintivo](https://img.shields.io/badge/Sabor%20Instintivo-🍲-yellow?logoColor=white)](https://nerdcalistenico.com.br/saborinstintivo/) &nbsp; [![Foco no Capital](https://img.shields.io/badge/Foco%20no%20Capital-📊-darkgreen?logoColor=white)](https://nerdcalistenico.com.br/foconocapital/) &nbsp; [![Jornada Relevante](https://img.shields.io/badge/Jornada%20Relevante-✈-darkgoldenrod?logoColor=white)](https://nerdcalistenico.com.br/jornadarelevante/) &nbsp; [![Sonus et Rhythmus](https://img.shields.io/badge/Sonus%20et%20Rhythmus-🎶-deeppink?logoColor=white)](https://nerdcalistenico.com.br/sonusetrhythmus/) &nbsp; [![Fora da bolha](https://img.shields.io/badge/Fora%20da%20bolha-🌎-grey?logoColor=white)](https://nerdcalistenico.com.br/foradabolha/) &nbsp; [![Noob da Era 8 bits](https://img.shields.io/badge/Noob%20da%20Era%208%20bits-🎮-lightseagreen?logoColor=white)](https://nerdcalistenico.com.br/noobdaera8bits/)
+<sup>[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-grey?logoColor=white)](https://nerdcalistenico.com.br/hemersonvianna/)</sup>
+<sup>[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-grey?logoColor=white)](https://nerdcalistenico.com.br/imhomovies/)</sup>
+<sup>[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-grey?logoColor=white)](https://nerdcalistenico.com.br/zamenhof/)</sup>
+<sup>[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-grey?logoColor=white)](https://nerdcalistenico.com.br/saborinstintivo/)</sup>
+<sup>[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-grey?logoColor=white)](https://nerdcalistenico.com.br/foconocapital/)</sup>
+<sup>[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-grey?logoColor=white)](https://nerdcalistenico.com.br/jornadarelevante/)</sup>
+<sup>[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-grey?logoColor=white)](https://nerdcalistenico.com.br/sonusetrhythmus/)</sup>
+<sup>[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-grey?logoColor=white)](https://nerdcalistenico.com.br/foradabolha/)</sup>
+<sup>[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-grey?logoColor=white)](https://nerdcalistenico.com.br/noobdaera8bits/)</sup>
 
 ## Projects
 
