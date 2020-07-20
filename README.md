@@ -4,8 +4,6 @@
 <sup>[![Instagram](https://img.shields.io/badge/-Instagram-steelblue?logo=Instagram&logoColor=white)](https://instagram.com/hemerson.vianna)</sup>
 <sup>[![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:hemerson.lourenco@gmail.com)</sup>
 <sup>[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemersonvianna)</sup>
-<sup>![Page View](https://visitor-badge.glitch.me/badge?page_id=hemersonvianna.visitor-badge)</sup>
-<sup>since 07.13.2020</sup>
 
 - 🧭 &nbsp; Working with Web Development since 2008
 - 📚 &nbsp; Always interested in learning a little more of project management, ui, ux, seo, development, infrastructure ...
