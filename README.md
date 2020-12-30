@@ -38,3 +38,8 @@
 > <code><a href="https://github.com/o2minerva"><img width="32" height="32" src="https://avatars1.githubusercontent.com/u/61127091" alt="Owl of Minerva" /></a></code> **Owl of Minerva** - didactic content available for consultation and with examples.<br>
 > <code><a href="https://github.com/allmyths"><img width="32" height="32" src="https://avatars2.githubusercontent.com/u/67839590" alt="Mythological Alliance" /></a></code> **Mythological Alliance** - Projects to help the development community.<br>
 > <code><a href="https://github.com/nerdcalistenico"><img width="32" height="32" src="https://avatars3.githubusercontent.com/u/68088436" alt="Nerd Calistênico" /></a></code> **Nerd Calistênico** - Management of all developed projects.<br>
+
+## Github Stats
+
+![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=hemersonvianna&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
+
