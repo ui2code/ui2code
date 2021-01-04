@@ -1,7 +1,7 @@
 # Hemerson Vianna - @developerjson
 
-<sup>[![Twitter](https://img.shields.io/badge/-Twitter-lightskyblue?logo=Twitter&logoColor=white)](https://twitter.com/hemersonvianna)</sup>
-<sup>[![Instagram](https://img.shields.io/badge/-Instagram-steelblue?logo=Instagram&logoColor=white)](https://instagram.com/hemerson.vianna)</sup>
+<sup>[![Twitter](https://img.shields.io/badge/-Twitter-lightskyblue?logo=Twitter&logoColor=white)](https://twitter.com/developerjson)</sup>
+<sup>[![Instagram](https://img.shields.io/badge/-Instagram-steelblue?logo=Instagram&logoColor=white)](https://instagram.com/developer.json)</sup>
 <sup>[![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:hemerson.lourenco@gmail.com)</sup>
 <sup>[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemersonvianna)</sup>
 
@@ -41,5 +41,5 @@
 
 ## Github Stats
 
-![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=hemersonvianna&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
+![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=developerjson&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
 
