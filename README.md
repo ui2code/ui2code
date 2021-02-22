@@ -43,3 +43,5 @@
 
 ![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
 
+[![Hemerson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oeduardoal&count_private=true&show_icons=true&theme=dark)](https://github.com/ui2code)
+
