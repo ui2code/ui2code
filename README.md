@@ -14,15 +14,12 @@
 
 ## Blogs
 
-- <sup>[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-grey?logoColor=white)](https://nerdcalistenico.com.br/hemersonvianna/)</sup>
-- <sup>[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-grey?logoColor=white)](https://nerdcalistenico.com.br/imhomovies/)</sup>
-- <sup>[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-grey?logoColor=white)](https://nerdcalistenico.com.br/zamenhof/)</sup>
-- <sup>[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-grey?logoColor=white)](https://nerdcalistenico.com.br/saborinstintivo/)</sup>
-- <sup>[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-grey?logoColor=white)](https://nerdcalistenico.com.br/foconocapital/)</sup>
-- <sup>[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-grey?logoColor=white)](https://nerdcalistenico.com.br/jornadarelevante/)</sup>
-- <sup>[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-grey?logoColor=white)](https://nerdcalistenico.com.br/sonusetrhythmus/)</sup>
-- <sup>[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-grey?logoColor=white)](https://nerdcalistenico.com.br/foradabolha/)</sup>
-- <sup>[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-grey?logoColor=white)](https://nerdcalistenico.com.br/noobdaera8bits/)</sup>
+||||
+|-|-|-|
+|[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-grey?logoColor=white)](https://nerdcalistenico.com.br/hemersonvianna/) |[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-grey?logoColor=white)](https://nerdcalistenico.com.br/imhomovies/) |[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-grey?logoColor=white)](https://nerdcalistenico.com.br/zamenhof/)|
+|[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-grey?logoColor=white)](https://nerdcalistenico.com.br/saborinstintivo/) |[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-grey?logoColor=white)](https://nerdcalistenico.com.br/foconocapital/) | [![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-grey?logoColor=white)](https://nerdcalistenico.com.br/jornadarelevante/)|
+|[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-grey?logoColor=white)](https://nerdcalistenico.com.br/sonusetrhythmus/) |[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-grey?logoColor=white)](https://nerdcalistenico.com.br/foradabolha/) |[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-grey?logoColor=white)](https://nerdcalistenico.com.br/noobdaera8bits/)|
+||||
 
 ## Organizations & Projects
 
