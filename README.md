@@ -22,12 +22,122 @@
 
 ## Organizations & Projects
 
-|||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<a href="https://github.com/hdquarters"><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/13304511" alt="Headquarters" /><br>**Headquarters**</a>|<a href="https://github.com/w3dotdev"><img width="80" height="80" src="https://avatars0.githubusercontent.com/u/16153633" alt="W3.dev" /><br>**W3.dev**</a>|<a href="https://github.com/sxsarena"><img width="80" height="80" src="https://avatars1.githubusercontent.com/u/20724046" alt="SxS Arena" /><br>**Side by Side Arena**</a>|<a href="https://github.com/vxtool"><img width="80" height="80" src="https://avatars0.githubusercontent.com/u/26970146" alt="Victorinox" /><br>**Victorinox Tool**</a>|<a href="https://github.com/nvich"><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/27102369" alt="Nekhemievich" /><br>**Nekhemievich**</a>|<a href="https://github.com/hesiod3c"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/30731635" alt="Hesiod and " /><br>**Hesiod**</a>|
-|<a href="https://github.com/malrondon"><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/49529560" alt="Mal. Rondon" /><br>**Mal. Rondon**</a>|<a href="https://github.com/tgkr"><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/55669171" alt="Togakure" /><br>**Togakure**</a>|<a href="https://github.com/3s2yu"><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/55886185" alt="3s2yu" /><br>**3s2yu**</a>|<a href="https://github.com/o2minerva"><img width="80" height="80" src="https://avatars1.githubusercontent.com/u/61127091" alt="Owl of Minerva" /><br>**Owl of Minerva**</a>|<a href="https://github.com/allmyths"><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/67839590" alt="Mythological Alliance" /><br>**Mythological Alliance**</a>|<a href="https://github.com/nerdcalistenico"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/68088436" alt="Nerd Calistênico" /><br>**Nerd Calistênico**</a>|
-|<a href="https://github.com/eleicoes"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/72623480" alt="Eleições - Brasil" /><br>**Eleições - Brasil**</a>|<a href="https://github.com/coding-bootcamps"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/74940515" alt="Coding Bootcamps" /><br>**Coding Bootcamps**</a>|<a href="https://github.com/just-a-suggestion"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/75226275" alt="It is just a suggestion" /><br>**It is just a suggestion**</a>|<a href="https://github.com/aceleracao-de-carreira"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/77643018" alt="Aceleração de Carreira" /><br>**Aceleração de Carreira**</a>|<a href="https://github.com/zerotodeploy"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/77643946" alt="Zero to Deploy" /><br>**Zero to Deploy**</a>|<a href="https://github.com/cyanfront"><img width="80" height="80" src="https://avatars3.githubusercontent.com/u/78225580" alt="Cyan Front" /><br>**Cyan Front**</a>|
-|||||||
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hdquarters">
+        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/13304511" alt="Headquarters" />
+        <br><sup>Headquarters</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/w3dotdev">
+        <img width="80" height="80" src="https://avatars0.githubusercontent.com/u/16153633" alt="W3.dev" />
+        <br><sup>W3.dev</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sxsarena">
+        <img width="80" height="80" src="https://avatars1.githubusercontent.com/u/20724046" alt="SxS Arena" />
+        <br><sup>Side by Side Arena</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vxtool">
+        <img width="80" height="80" src="https://avatars0.githubusercontent.com/u/26970146" alt="Victorinox" />
+        <br><sup>Victorinox Tool</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nvich">
+        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/27102369" alt="Nekhemievich" />
+        <br><sup>Nekhemievich</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hesiod3c">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/30731635" alt="Hesiod and " />
+        <br><sup>Hesiod</sup>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/malrondon">
+        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/49529560" alt="Mal. Rondon" />
+        <br><sup>Mal. Rondon</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tgkr">
+        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/55669171" alt="Togakure" />
+        <br><sup>Togakure</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/3s2yu">
+        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/55886185" alt="3s2yu" />
+        <br><sup>3s2yu</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/o2minerva">
+        <img width="80" height="80" src="https://avatars1.githubusercontent.com/u/61127091" alt="Owl of Minerva" />
+        <br><sup>Owl of Minerva</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/allmyths">
+        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/67839590" alt="Mythological Alliance" />
+        <br><sup>Mythological Alliance</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nerdcalistenico">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/68088436" alt="Nerd Calistênico" />
+        <br><sup>Nerd Calistênico</sup>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eleicoes">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/72623480" alt="Eleições - Brasil" />
+        <br><sup>Eleições - Brasil</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/coding-bootcamps">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/74940515" alt="Coding Bootcamps" />
+        <br><sup>Coding Bootcamps</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/just-a-suggestion">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/75226275" alt="It is just a suggestion" />
+        <br><sup>It is just a suggestion</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aceleracao-de-carreira">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/77643018" alt="Aceleração de Carreira" />
+        <br><sup>Aceleração de Carreira</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zerotodeploy">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/77643946" alt="Zero to Deploy" />
+        <br><sup>Zero to Deploy</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cyanfront">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/78225580" alt="Cyan Front" />
+        <br><sup>Cyan Front</sup>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Github Stats
 
