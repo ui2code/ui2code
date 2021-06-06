@@ -1,9 +1,9 @@
 # Hemerson Vianna - @ui2code
 
-<sup>[![Twitter](https://img.shields.io/badge/-Twitter-lightskyblue?logo=Twitter&logoColor=white)](https://twitter.com/ui2code)</sup>
-<sup>[![Instagram](https://img.shields.io/badge/-Instagram-steelblue?logo=Instagram&logoColor=white)](https://instagram.com/ui2code)</sup>
-<sup>[![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:hemerson.lourenco@gmail.com)</sup>
-<sup>[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemersonvianna)</sup>
+<sup>[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ui2code)</sup>
+<sup>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ui2code)</sup>
+<sup>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemerson.lourenco@gmail.com)</sup>
+<sup>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemersonvianna)</sup>
 
 - 🧭 &nbsp; Working with Web Development since 2008
 - 📚 &nbsp; Always interested in learning a little more of project management, ui, ux, seo, development, infrastructure ...
@@ -16,8 +16,8 @@
 
 ||||||
 |-|-|-|-|-|
-|[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-grey?logoColor=white)](https://nerdcalistenico.com.br/hemersonvianna/) |[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-grey?logoColor=white)](https://nerdcalistenico.com.br/imhomovies/) |[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-grey?logoColor=white)](https://nerdcalistenico.com.br/zamenhof/)|[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-grey?logoColor=white)](https://nerdcalistenico.com.br/saborinstintivo/)|[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-grey?logoColor=white)](https://nerdcalistenico.com.br/foconocapital/)|
-|[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-grey?logoColor=white)](https://nerdcalistenico.com.br/jornadarelevante/) |[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-grey?logoColor=white)](https://nerdcalistenico.com.br/sonusetrhythmus/) |[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-grey?logoColor=white)](https://nerdcalistenico.com.br/foradabolha/)|[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-grey?logoColor=white)](https://nerdcalistenico.com.br/noobdaera8bits/)|
+|[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/hemersonvianna/) |[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/imhomovies/) |[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/zamenhof/)|[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/saborinstintivo/)|[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/foconocapital/)|
+|[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/jornadarelevante/) |[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/sonusetrhythmus/) |[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/foradabolha/)|[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/noobdaera8bits/)|
 ||||||
 
 ## Organizations & Projects
