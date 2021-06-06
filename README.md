@@ -145,5 +145,5 @@
 
 |||
 |:-:|:-:|
-|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ui2code&layout=compact&theme=tokyonight)|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=ui2code&theme=tokyonight)|
+|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ui2code&layout=compact&theme=tokyonight)|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ui2code&theme=tokyonight)|
 |||
