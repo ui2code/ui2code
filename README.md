@@ -69,9 +69,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/tgkr">
-        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/55669171" alt="Togakure" />
-        <br><sup>Togakure</sup>
+      <a href="https://github.com/togakure-ds">
+        <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/55669171" alt="Togakure DS" />
+        <br><sup>Togakure DS</sup>
       </a>
     </td>
     <td align="center">
