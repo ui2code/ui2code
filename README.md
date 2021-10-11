@@ -8,7 +8,7 @@
 - 🧭 &nbsp; Working with Web Development since 2008
 - 📚 &nbsp; Always interested in learning a little more of project management, ui, ux, seo, development, infrastructure ...
 - 🇧🇷 &nbsp; Living in Rio de Janeiro, Brazil
-- 🖥 &nbsp; I'm creator of the [Nerd Calistênico](https://nerdcalistenico.com.br) website
+- 🖥 &nbsp; I'm creator of the [Cyan Front](https://cyanfront.com) website
 - 🏃 &nbsp; Calisthenics practitioner
 - 🚦 &nbsp; The blogs show my other interests
 
@@ -16,8 +16,8 @@
 
 ||||||
 |-|-|-|-|-|
-|[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/hemersonvianna/) |[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/imhomovies/) |[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/zamenhof/)|[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/saborinstintivo/)|[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/foconocapital/)|
-|[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/jornadarelevante/) |[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/sonusetrhythmus/) |[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/foradabolha/)|[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-black?style=for-the-badge&logoColor=white)](https://nerdcalistenico.com.br/noobdaera8bits/)|
+|[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/hemersonvianna/) |[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/imhomovies/) |[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-black?style=for-the-badge&logoColor=white)]https://cyanfront.com/blogs/zamenhof/)|[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/saborinstintivo/)|[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/foconocapital/)|
+|[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/jornadarelevante/) |[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/sonusetrhythmus/) |[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/foradabolha/)|[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/noobdaera8bits/)|
 ||||||
 
 ## Organizations & Projects
