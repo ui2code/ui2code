@@ -101,9 +101,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/eleicoes">
-        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/72623480" alt="Eleições - Brasil" />
-        <br><sup>Eleições - Brasil</sup>
+      <a href="https://github.com/votacaobrasil">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/72623480" alt="Votação - Brasil" />
+        <br><sup>Votação - Brasil</sup>
       </a>
     </td>
     <td align="center">
