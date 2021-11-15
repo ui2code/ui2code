@@ -107,9 +107,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/coding-bootcamps">
-        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/74940515" alt="Coding Bootcamps" />
-        <br><sup>Coding Bootcamps</sup>
+      <a href="https://github.com/mybootcamps">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/74940515" alt="My Bootcamps" />
+        <br><sup>My Bootcamps</sup>
       </a>
     </td>
     <td align="center">
