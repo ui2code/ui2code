@@ -141,9 +141,14 @@
 
 ## Github Stats
 
-![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
+|||
+|:-:|:-:|
+|![Hemerson's github stats](https://github-readme-streak-stats.herokuapp.com/?user=ui2code&theme=tokyonight)|![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code&show_icons=true&count_private=true&theme=tokyonight&hide=stars)|
+|||
 
 |||
 |:-:|:-:|
-|![Hemerson's github stats](https://github-readme-streak-stats.herokuapp.com/?user=ui2code&theme=tokyonight)|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ui2code&theme=tokyonight)|
+|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ui2code&theme=tokyonight)|Contador de Visitas (início: 27/08/22) ![Contador de Visitas (início: 27/08/22)](https://profile-counter.glitch.me/{ui2code}/count.svg)|
 |||
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ui2code&theme=gotham&hide_border=true&area=true)&nbsp;
