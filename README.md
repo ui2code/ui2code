@@ -119,6 +119,12 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/hemersonvianna">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/77468417" alt="Hemerson Vianna" />
+        <br><sup>Hemerson Vianna</sup>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/aceleracao-de-carreira">
         <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/77643018" alt="Aceleração de Carreira" />
         <br><sup>Aceleração de Carreira</sup>
@@ -130,10 +136,24 @@
         <br><sup>Zero to Deploy</sup>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/cyanfront">
         <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/78225580" alt="Cyan Front" />
         <br><sup>Cyan Front</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pet2code">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/111210294" alt="Pet2Code" />
+        <br><sup>Pet2Code</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alexaSkills">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/113767462" alt="Alexa Skills" />
+        <br><sup>Alexa Skills</sup>
       </a>
     </td>
   </tr>
