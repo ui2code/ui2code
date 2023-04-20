@@ -16,8 +16,8 @@
 
 ||||||
 |-|-|-|-|-|
-|[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/hemersonvianna/) |[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/imhomovies/) |[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/zamenhof/)|[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/saborinstintivo/)|[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/foconocapital/)|
-|[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/jornadarelevante/) |[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/sonusetrhythmus/) |[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/foradabolha/)|[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-black?style=for-the-badge&logoColor=white)](https://cyanfront.com/blogs/noobdaera8bits/)|
+|[![Hemerson Vianna](https://img.shields.io/badge/💻-Hemerson%20Vianna-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/hemersonvianna) |[![IMHO Movies](https://img.shields.io/badge/🎥-IMHO%20Movies-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/imhomovies/) |[![Zamenhof](https://img.shields.io/badge/📚-Zamenhof-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/zamenhof/)|[![Sabor Instintivo](https://img.shields.io/badge/🍲-Sabor%20Instintivo-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/saborinstintivo/)|[![Foco no Capital](https://img.shields.io/badge/📊-Foco%20no%20Capital-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/foconocapital/)|
+|[![Jornada Relevante](https://img.shields.io/badge/✈-Jornada%20Relevante-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/jornadarelevante/) |[![Sonus et Rhythmus](https://img.shields.io/badge/🎶-Sonus%20et%20Rhythmus-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/sonusetrhythmus/) |[![Fora da bolha](https://img.shields.io/badge/🌎-Fora%20da%20bolha-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/foradabolha/)|[![Noob da Era 8 bits](https://img.shields.io/badge/🎮-Noob%20da%20Era%208%20bits-black?style=for-the-badge&logoColor=white)](https://ui2code.com/blogs/noobdaera8bits/)|
 ||||||
 
 ## Organizations & Projects
@@ -131,9 +131,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/zerotodeploy">
-        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/77643946" alt="Zero to Deploy" />
-        <br><sup>Zero to Deploy</sup>
+      <a href="https://github.com/skillblend">
+        <img width="80" height="80" src="https://avatars3.githubusercontent.com/u/131195248" alt="Skill Blend" />
+        <br><sup>Skill Blend</sup>
       </a>
     </td>
   </tr>
