@@ -16,7 +16,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Github Stats** (2023)
 
-![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code\&rank_icon=percentile\&theme=tokyonight\&hide=contribs,stars\&show=reviews,prs_merged\&include_all_commits=true&show_icons=true\&count_private=true\&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR\&include_orgs=true\&custom_title=&hide_border=true)
+![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code\&rank_icon=percentile\&theme=tokyonight\&hide=contribs,stars\&show=reviews,prs_merged\&include_all_commits=true&show_icons=true\&count_private=true\&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR\&include_orgs=true\&custom_title=\&hide_border=true\&n=n3)
 ![Hemerson's github stats](https://github-readme-streak-stats.herokuapp.com?user=ui2code&theme=tokyonight&hide_border=true&card_width=200&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true&hide_longest_streak=true)
 ![Hemerson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ui2code\&hide_border=true\&layout=compact\&theme=tokyonight\&langs_count=8&hide=properties&custom_title=Most%20Used%20Languages\&range=all_time)
 
