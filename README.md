@@ -18,7 +18,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 |||
 |:-:|:-:|
-|![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code\&rank_icon=percentile\&theme=tokyonight\&hide=contribs,stars\&show=prs_merged)|![Hemerson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ui2code\&layout=compact\&theme=tokyonight)|
+|![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code\&rank_icon=percentile\&theme=tokyonight\&hide=contribs,stars\&show=reviews,prs_merged\&)|![Hemerson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ui2code\&layout=compact\&theme=tokyonight\&)|
 |||
 
 **Social**
