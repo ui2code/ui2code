@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ui2code) <sup>since 10/27/2023</sup>
 
-Front-end web developer with over 15 years of experience. Interested in all areas of web development, including project management, UI/UX, SEO, back-end and infrastructure. Creator of the UI2Code website and author of 9 blogs. Based in São Paulo, Brazil.
+Front-end web developer with over +15 years of experience. Interested in all areas of web development, including project management, UI/UX, SEO, back-end and infrastructure. Creator of the UI2Code website and author of 9 blogs. Based in São Paulo, Brazil.
 
 ## Blogs
 
