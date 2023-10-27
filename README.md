@@ -1,4 +1,5 @@
 # Hemerson Vianna - @ui2code
+[![wakatime](https://wakatime.com/badge/user/9c11f5dd-3d76-477d-b119-bcbfccfe66c6.svg)](https://wakatime.com/@9c11f5dd-3d76-477d-b119-bcbfccfe66c6) <sup>since 08/12/2019</sup><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=ui2code) <sup>since 10/27/2023</sup>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ui2code)
