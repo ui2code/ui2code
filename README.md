@@ -2,7 +2,7 @@
 
 Front-end web developer with over +15 years of experience. Interested in all areas of web development, including project management, UI/UX, SEO, back-end and infrastructure. Creator of the UI2Code website and author of 9 blogs. Based in São Paulo, Brazil.
 
-## Blogs
+**Blogs**
 
 <sup><a href="https://ui2code.com/blogs/hemersonvianna">Hemerson Vianna</a></sup> - 
 <sup><a href="https://ui2code.com/blogs/imhomovies/">IMHO Movies</a></sup> - 
@@ -14,12 +14,14 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <sup><a href="https://ui2code.com/blogs/foradabolha/">Fora da bolha</a></sup> - 
 <sup><a href="https://ui2code.com/blogs/noobdaera8bits/">Noob da Era 8 bits</a></sup>
 
-## Github Stats
+**Github Stats**
 
 |||
 |:-:|:-:|
 |![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code\&rank_icon=percentile\&theme=tokyonight\&hide=contribs,stars)|![Hemerson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ui2code\&layout=compact\&theme=tokyonight)|
 |||
+
+**Social**
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ui2code)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ui2code)
