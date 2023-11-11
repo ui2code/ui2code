@@ -4,26 +4,34 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Sites**
 
-<a href="https://ui2code.com" target="_blank" style="display:inline-block;">
-  <table>
+<sup>
+<a href="https://ui2code.com" target="_blank">
+  <table cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center"><img src="./resources/sites/ui2code.svg" width="50" /></td>
+      <td align="center">
+        <img src="./resources/sites/ui2code.svg" width="50" />
+      </td>
     </tr>
     <tr>
       <td align="center"><sup>UI2Code</sup></td>
     </tr>
   </table>
 </a>
-<a href="https://votacaobrasil.com.br" target="_blank" style="display:inline-block;">
-  <table>
+</sup>
+<sup>
+<a href="https://votacaobrasil.com.br" target="_blank">
+  <table cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center"><img src="./resources/sites/votacaobrasil.svg" width="50" /></td>
+      <td align="center">
+        <img src="./resources/sites/votacaobrasil.svg" width="50" />
+      </td>
     </tr>
     <tr>
       <td align="center"><sup>Votação Brasil</sup></td>
     </tr>
   </table>
 </a>
+</sup>
 
 <sup>
   <a href="https://opresentear.com.br" target="_blank">
