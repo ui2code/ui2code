@@ -4,78 +4,127 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Sites**
 
-<sup>
-<a href="https://ui2code.com" target="_blank">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <img src="./resources/sites/ui2code.svg" width="50" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><sup>UI2Code</sup></td>
-    </tr>
-  </table>
-</a>
-</sup>
-<sup>
-<a href="https://votacaobrasil.com.br" target="_blank">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <img src="./resources/sites/votacaobrasil.svg" width="50" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><sup>Votação Brasil</sup></td>
-    </tr>
-  </table>
-</a>
-</sup>
 
-<sup>
+<table cellspacing="0" cellpadding="0" collapse="collapse">
+<tr>
+<td>
+  <a href="https://ui2code.com" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/ui2code.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>UI2Code</sup></td>
+      </tr>
+    </table>
+  </a>
+</td>
+<td>
+  <a href="https://votacaobrasil.com.br" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/votacaobrasil.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Votação Brasil</sup></td>
+      </tr>
+    </table>
+  </a>
+</td>
+<td>
   <a href="https://opresentear.com.br" target="_blank">
-    <img src="./resources/sites/opresentear.svg" width="50" />
-    <br />
-    <span>O Presentear</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/opresentear.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>O Presentear</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
+</td>
+<td>
   <a href="https://togakurecss.com" target="_blank">
-    <img src="./resources/sites/togakure.svg" width="50" />
-    <br />
-    <span>Togakure CSS</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/togakure.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Togakure CSS</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
+</td>
+</tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" collapse="collapse">
+<tr>
+<td>
   <a href="https://terroirdovinho.com.br" target="_blank">
-    <img src="./resources/sites/terroirdovinho.svg" width="50" />
-    <br />
-    <span>Terroir do Vinho</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/terroirdovinho.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Terroir do Vinho</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
+</td>
+<td>
   <a href="https://pet2code.com" target="_blank">
-    <img src="./resources/sites/pet2code.svg" width="50" />
-    <br />
-    <span>Pet2Code</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/pet2code.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Pet2Code</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
+</td>
+<td>
   <a href="https://skillblend.com.br" target="_blank">
-    <img src="./resources/sites/skillblend.svg" width="50" />
-    <br />
-    <span>Skill Blend</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/skillblend.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Skill Blend</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
+</td>
+<td>
   <a href="https://comercioartesanal.com" target="_blank">
-    <img src="./resources/sites/comercioartesanal.svg" width="50" />
-    <br />
-    <span>Comércio Artesanal</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/sites/comercioartesanal.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Comércio Artesanal</sup></td>
+      </tr>
+    </table>
   </a>
-</sup>
-
+</td>
+</tr>
+</table>
 
 **Blogs** (ui2code.com)
 
