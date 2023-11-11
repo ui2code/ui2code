@@ -9,56 +9,56 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <tr>
 <td valign="top" align="center">
   <a href="https://ui2code.com">
-    <img src="./resources/sites/ui2code.svg" width="50" />
+    <img src="./resources/sites/ui2code.svg" height="50" width="50" />
     <br />
     <sup>UI2Code</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://votacaobrasil.com.br">
-    <img src="./resources/sites/votacaobrasil.svg" width="50" />
+    <img src="./resources/sites/votacaobrasil.svg" height="50" width="50" />
     <br />
     <sup>Votação Brasil</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://opresentear.com.br">
-    <img src="./resources/sites/opresentear.svg" width="50" />
+    <img src="./resources/sites/opresentear.svg" height="50" width="50" />
     <br />
     <sup>O Presentear</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://togakurecss.com">
-    <img src="./resources/sites/togakure.svg" width="50" />
+    <img src="./resources/sites/togakure.svg" height="50" width="50" />
     <br />
     <sup>Togakure CSS</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://terroirdovinho.com.br">
-    <img src="./resources/sites/terroirdovinho.svg" width="50" />
+    <img src="./resources/sites/terroirdovinho.svg" height="50" width="50" />
     <br />
     <sup>Terroir do Vinho</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://pet2code.com">
-    <img src="./resources/sites/pet2code.svg" width="50" />
+    <img src="./resources/sites/pet2code.svg" height="50" width="50" />
     <br />
     <sup>Pet2Code</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://skillblend.com.br">
-    <img src="./resources/sites/skillblend.svg" width="50" />
+    <img src="./resources/sites/skillblend.svg" height="50" width="50" />
     <br />
     <sup>Skill Blend</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://comercioartesanal.com">
-    <img src="./resources/sites/comercioartesanal.svg" width="50" />
+    <img src="./resources/sites/comercioartesanal.svg" height="50" width="50" />
     <br />
     <sup>Comércio Artesanal</sup>
   </a>
@@ -72,70 +72,70 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <tr>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/tecnologia">
-    <img src="./resources/blogs/tecnologia.svg" width="50" />
+    <img src="./resources/blogs/tecnologia.svg" height="50" width="50" />
     <br />
     <sup>UI2Code - Tecnologia</sup></td>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/hemersonvianna">
-    <img src="./resources/blogs/hemersonvianna.svg" width="50" />
+    <img src="./resources/blogs/hemersonvianna.svg" height="50" width="50" />
     <br />
     <sup>Hemerson Vianna</sup></td>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/imhomovies">
-    <img src="./resources/blogs/imhomovies.svg" width="50" />
+    <img src="./resources/blogs/imhomovies.svg" height="50" width="50" />
     <br />
     <sup>IMHO Movies</sup></td>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/zamenhof">
-    <img src="./resources/blogs/zamenhof.svg" width="50" />
+    <img src="./resources/blogs/zamenhof.svg" height="50" width="50" />
     <br />
     <sup>Zamenhof</sup></td>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/saborinstintivo">
-    <img src="./resources/blogs/saborinstintivo.svg" width="50" />
+    <img src="./resources/blogs/saborinstintivo.svg" height="50" width="50" />
     <br />
     <sup>Sabor Instintivo</sup></td>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/foconocapital">
-    <img src="./resources/blogs/foconocapital.svg" width="50" />
+    <img src="./resources/blogs/foconocapital.svg" height="50" width="50" />
     <br />
     <sup>Foco no Capital</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/jornadarelevante">
-    <img src="./resources/blogs/jornadarelevante.svg" width="50" />
+    <img src="./resources/blogs/jornadarelevante.svg" height="50" width="50" />
     <br />
     <sup>Jornada Relevante</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/sonusetrhythmus">
-    <img src="./resources/blogs/sonusetrhythmus.svg" width="50" />
+    <img src="./resources/blogs/sonusetrhythmus.svg" height="50" width="50" />
     <br />
     <sup>Sonus et Rhythmus</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/foradabolha">
-    <img src="./resources/blogs/foradabolha.svg" width="50" />
+    <img src="./resources/blogs/foradabolha.svg" height="50" width="50" />
     <br />
     <sup>Fora da bolha</sup>
   </a>
 </td>
 <td valign="top" align="center">
   <a href="https://ui2code.com/blogs/noobdaera8bits">
-    <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
+    <img src="./resources/blogs/noobdaera8bits.svg" height="50" width="50" />
     <br />
     <sup>Noob da Era 8 bits</sup>
   </a>
