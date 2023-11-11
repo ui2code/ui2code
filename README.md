@@ -128,66 +128,152 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Blogs** (ui2code.com)
 
-<sup>
+<table cellspacing="0" cellpadding="0" collapse="collapse">
+<tr>
+<td>
   <a href="https://ui2code.com/blogs/tecnologia" target="_blank">
-    <img src="./resources/blogs/tecnologia.svg" width="50" />
-    <span>UI2Code - Tecnologia</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/tecnologia.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>UI2Code - Tecnologia</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
+</td>
+<td>
   <a href="https://ui2code.com/blogs/hemersonvianna" target="_blank">
-    <img src="./resources/blogs/hemersonvianna.svg" width="50" />
-    <span>Hemerson Vianna</span>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/hemersonvianna.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Hemerson Vianna</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/imhomovies/" target="_blank">
-    <img src="./resources/blogs/imhomovies.svg" width="50" />
-    <span>IMHO Movies</span>
+</td>
+<td>
+  <a href="https://ui2code.com/blogs/imhomovies" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/imhomovies.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>IMHO Movies</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/zamenhof/" target="_blank">
-    <img src="./resources/blogs/zamenhof.svg" width="50" />
-    <span>Zamenhof</span>
+</td>
+<td>
+  <a href="https://ui2code.com/blogs/zamenhof" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/zamenhof.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Zamenhof</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/saborinstintivo/" target="_blank">
-    <img src="./resources/blogs/saborinstintivo.svg" width="50" />
-    <span>Sabor Instintivo</span>
+</td>
+<td>
+  <a href="https://ui2code.com/blogs/saborinstintivo" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/saborinstintivo.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Sabor Instintivo</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/foconocapital/" target="_blank">
-    <img src="./resources/blogs/foconocapital.svg" width="50" />
-    <span>Foco no Capital</span>
+</td>
+</tr>
+<tr>
+<td>
+  <a href="https://ui2code.com/blogs/foconocapital" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/foconocapital.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Foco no Capital</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/jornadarelevante/" target="_blank">
-    <img src="./resources/blogs/jornadarelevante.svg" width="50" />
-    <span>Jornada Relevante</span>
+</td>
+<td>
+  <a href="https://ui2code.com/blogs/jornadarelevante" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/jornadarelevante.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Jornada Relevante</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/sonusetrhythmus/" target="_blank">
-    <img src="./resources/blogs/snousetrhythmus.svg" width="50" />
-    <span>Sonus et Rhythmus</span>
+</td>
+<td>
+  <a href="https://ui2code.com/blogs/sonusetrhythmus" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/sonusetrhythmus.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Sonus et Rhythmus</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/foradabolha/" target="_blank">
-    <img src="./resources/blogs/foconocapital.svg" width="50" />
-    <span>Fora da bolha</span>
+</td>
+<td>
+  <a href="https://ui2code.com/blogs/foradabolha" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/foradabolha.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Fora da bolha</sup></td>
+      </tr>
+    </table>
   </a>
-</sup> - 
-<sup>
-  <a href="https://ui2code.com/blogs/noobdaera8bits/" target="_blank">
-    <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
-    <span>Noob da Era 8 bits</span>
+</td>
+<td>
+  <a href="https://ui2code.com/blogs/noobdaera8bits" target="_blank">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><sup>Noob da Era 8 bits</sup></td>
+      </tr>
+    </table>
   </a>
-</sup>
+</td>
+</tr>
+</table>
 
 **Github Stats** (2023)
 
