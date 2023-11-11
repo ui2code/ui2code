@@ -4,61 +4,62 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Sites**
 
-<a href="https://ui2code.com">
+<a href="https://ui2code.com" title="UI2Code">
   <img src="./resources/sites/ui2code.svg" width="50" />
 </a>
-<a href="https://votacaobrasil.com.br">
+<a href="https://votacaobrasil.com.br" title="Votação Brasil">
   <img src="./resources/sites/votacaobrasil.svg" width="50" />
 </a>
-<a href="https://opresentear.com.br">
+<a href="https://opresentear.com.br" title="O Presentear">
   <img src="./resources/sites/opresentear.svg" width="50" />
 </a>
-<a href="https://togakurecss.com">
+<a href="https://togakurecss.com" title="Togakure CSS">
   <img src="./resources/sites/togakure.svg" width="50" />
 </a>
-<a href="https://terroirdovinho.com.br">
+<a href="https://terroirdovinho.com.br" title="Terroir do Vinho">
   <img src="./resources/sites/terroirdovinho.svg" width="50" />
 </a>
-<a href="https://pet2code.com">
+<a href="https://pet2code.com" title="Pet2Code">
   <img src="./resources/sites/pet2code.svg" width="50" />
 </a>
-<a href="https://skillblend.com.br">
+<a href="https://skillblend.com.br" title="Skill Blend">
   <img src="./resources/sites/skillblend.svg" width="50" />
 </a>
-<a href="https://comercioartesanal.com">
+<a href="https://comercioartesanal.com" title="Comércio Artesanal">
   <img src="./resources/sites/comercioartesanal.svg" width="50" />
 </a>
 
+
 **Blogs** (ui2code.com)
 
-<a href="https://ui2code.com/blogs/tecnologia">
+<a href="https://ui2code.com/blogs/tecnologia" title="Tecnologia">
   <img src="./resources/blogs/tecnologia.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/hemersonvianna">
+<a href="https://ui2code.com/blogs/hemersonvianna" title="Hemerson Vianna">
   <img src="./resources/blogs/hemersonvianna.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/imhomovies">
+<a href="https://ui2code.com/blogs/imhomovies" title="IMHO Movies">
   <img src="./resources/blogs/imhomovies.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/zamenhof">
+<a href="https://ui2code.com/blogs/zamenhof" title="Zamenhof">
   <img src="./resources/blogs/zamenhof.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/saborinstintivo">
+<a href="https://ui2code.com/blogs/saborinstintivo" title="Sabor Instintivo">
   <img src="./resources/blogs/saborinstintivo.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/foconocapital">
+<a href="https://ui2code.com/blogs/foconocapital" title="Foco no Capital">
   <img src="./resources/blogs/foconocapital.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/jornadarelevante">
+<a href="https://ui2code.com/blogs/jornadarelevante" title="Jornada Relevante">
   <img src="./resources/blogs/jornadarelevante.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/sonusetrhythmus">
+<a href="https://ui2code.com/blogs/sonusetrhythmus" title="Sonus et Rhythmus">
   <img src="./resources/blogs/sonusetrhythmus.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/foradabolha">
+<a href="https://ui2code.com/blogs/foradabolha" title="Fora da Bolha">
   <img src="./resources/blogs/foradabolha.svg" width="50" />
 </a>
-<a href="https://ui2code.com/blogs/noobdaera8bits">
+<a href="https://ui2code.com/blogs/noobdaera8bits" title="Noob da Era 8 Bits">
   <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
 </a>
 
