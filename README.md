@@ -29,7 +29,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
   <img src="./resources/sites/comercioartesanal.svg" width="50" />
 </a>
 
-<br /><br />
+<br>
 
 **Blogs** (ui2code.com)
 
