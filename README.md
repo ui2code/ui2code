@@ -4,7 +4,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Sites**
 
-<a href="https://ui2code.com" target="_blank">
+<a href="https://ui2code.com" target="_blank" style="display:inline-block;">
   <table>
     <tr>
       <td align="center"><img src="./resources/sites/ui2code.svg" width="50" /></td>
@@ -14,7 +14,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
     </tr>
   </table>
 </a>
-<a href="https://votacaobrasil.com.br" target="_blank">
+<a href="https://votacaobrasil.com.br" target="_blank" style="display:inline-block;">
   <table>
     <tr>
       <td align="center"><img src="./resources/sites/votacaobrasil.svg" width="50" /></td>
@@ -24,6 +24,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
     </tr>
   </table>
 </a>
+
 <sup>
   <a href="https://opresentear.com.br" target="_blank">
     <img src="./resources/sites/opresentear.svg" width="50" />
