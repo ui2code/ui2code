@@ -4,27 +4,118 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Sites**
 
-<sup><a href="https://ui2code.com">UI2Code</a></sup> - 
-<sup><a href="https://votacaobrasil.com.br">Votação Brasil</a></sup> - 
-<sup><a href="https://opresentear.com.br">O Presentear</a></sup> - 
-<sup><a href="https://togakurecss.com">Togakure CSS</a></sup> - 
-<sup><a href="https://terroirdovinho.com.br">Terroir do Vinho</a></sup> - 
-<sup><a href="https://pet2code.com">Pet2Code</a></sup> - 
-<sup><a href="https://skillblend.com.br">Skill Blend</a></sup> - 
-<sup><a href="https://comercioartesanal.com">Comércio Artesanal</a></sup>
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/ui2code.svg" width="50" />
+    <span>UI2Code</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://votacaobrasil.com.br" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/votacaobrasil.svg" width="50" />
+    <span>Votação Brasil</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://opresentear.com.br" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/opresentear.svg" width="50" />
+    <span>O Presentear</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://togakurecss.com" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/togakure.svg" width="50" />
+    <span>Togakure CSS</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://terroirdovinho.com.br" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/terroirdovinho.svg" width="50" />
+    <span>Terroir do Vinho</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://pet2code.com" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/pet2code.svg" width="50" />
+    <span>Pet2Code</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://skillblend.com.br" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/skillblend.svg" width="50" />
+    <span>Skill Blend</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://comercioartesanal.com" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/sites/comercioartesanal.svg" width="50" />
+    <span>Comércio Artesanal</span>
+  </a>
+</sup>
 
 
 **Blogs** (ui2code.com)
 
-<sup><a href="https://ui2code.com/blogs/hemersonvianna">Hemerson Vianna</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/imhomovies/">IMHO Movies</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/zamenhof/">Zamenhof</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/saborinstintivo/">Sabor Instintivo</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/foconocapital/">Foco no Capital</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/jornadarelevante/">Jornada Relevante</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/sonusetrhythmus/">Sonus et Rhythmus</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/foradabolha/">Fora da bolha</a></sup> - 
-<sup><a href="https://ui2code.com/blogs/noobdaera8bits/">Noob da Era 8 bits</a></sup>
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/tecnologia" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/tecnologia.svg" width="50" />
+    <span>UI2Code - Tecnologia</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/hemersonvianna" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/hemersonvianna.svg" width="50" />
+    <span>Hemerson Vianna</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/imhomovies/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/imhomovies.svg" width="50" />
+    <span>IMHO Movies</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/zamenhof/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/zamenhof.svg" width="50" />
+    <span>Zamenhof</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/saborinstintivo/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/saborinstintivo.svg" width="50" />
+    <span>Sabor Instintivo</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/foconocapital/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/foconocapital.svg" width="50" />
+    <span>Foco no Capital</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/jornadarelevante/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/jornadarelevante.svg" width="50" />
+    <span>Jornada Relevante</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/sonusetrhythmus/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/snousetrhythmus.svg" width="50" />
+    <span>Sonus et Rhythmus</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/foradabolha/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/foconocapital.svg" width="50" />
+    <span>Fora da bolha</span>
+  </a>
+</sup> - 
+<sup style="display:inline-block;">
+  <a href="https://ui2code.com/blogs/noobdaera8bits/" target="_blank" style="align-items:center;display:flex;flex-direction:column;">
+    <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
+    <span>Noob da Era 8 bits</span>
+  </a>
+</sup>
 
 **Github Stats** (2023)
 
