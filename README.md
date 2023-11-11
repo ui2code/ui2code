@@ -35,10 +35,6 @@ Front-end web developer with over +15 years of experience. Interested in all are
     <sup>Togakure CSS</sup>
   </a>
 </td>
-</tr>
-</table>
-<table cellspacing="0" cellpadding="0" border="0" collapse="collapse">
-<tr>
 <td align="center">
   <a href="https://terroirdovinho.com.br">
     <img src="./resources/sites/terroirdovinho.svg" width="50" />
@@ -109,8 +105,6 @@ Front-end web developer with over +15 years of experience. Interested in all are
     <sup>Sabor Instintivo</sup></td>
   </a>
 </td>
-</tr>
-<tr>
 <td align="center">
   <a href="https://ui2code.com/blogs/foconocapital">
     <img src="./resources/blogs/foconocapital.svg" width="50" />
