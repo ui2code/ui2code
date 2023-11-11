@@ -2,7 +2,19 @@
 
 Front-end web developer with over +15 years of experience. Interested in all areas of web development, including project management, UI/UX, SEO, back-end and infrastructure. Creator of the UI2Code website and author of 9 blogs. Based in São Paulo, Brazil.
 
-**Blogs**
+**Sites**
+
+<sup><a href="https://ui2code.com">UI2Code</a></sup> - 
+<sup><a href="https://votacaobrasil.com.br">Votação Brasil</a></sup> - 
+<sup><a href="https://opresentear.com.br">O Presentear</a></sup> - 
+<sup><a href="https://togakurecss.com">Togakure CSS</a></sup> - 
+<sup><a href="https://terroirdovinho.com.br">Terroir do Vinho</a></sup> - 
+<sup><a href="https://pet2code.com">Pet2Code</a></sup> - 
+<sup><a href="https://skillblend.com.br">Skill Blend</a></sup> - 
+<sup><a href="https://comercioartesanal.com">Comércio Artesanal</a></sup>
+
+
+**Blogs** (ui2code.com)
 
 <sup><a href="https://ui2code.com/blogs/hemersonvianna">Hemerson Vianna</a></sup> - 
 <sup><a href="https://ui2code.com/blogs/imhomovies/">IMHO Movies</a></sup> - 
@@ -16,7 +28,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Github Stats** (2023)
 
-![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code\&rank_icon=percentile\&theme=tokyonight\&hide=contribs,stars\&show=reviews,prs_merged\&include_all_commits=true&show_icons=true\&count_private=true\&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR\&include_orgs=true\&custom_title=\&hide_border=true\&n=n22)
+![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=ui2code\&rank_icon=percentile\&theme=tokyonight\&hide=contribs,stars\&show=reviews,prs_merged\&include_all_commits=true&show_icons=true\&count_private=true\&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR\&include_orgs=true\&custom_title=\&hide_border=true\&n=n101)
 ![Hemerson's github stats](https://github-readme-streak-stats.herokuapp.com?user=ui2code&theme=tokyonight&hide_border=true&card_width=200&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true&hide_longest_streak=true)
 ![Hemerson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ui2code\&hide_border=true\&layout=compact\&theme=tokyonight\&langs_count=8&hide=properties&custom_title=Most%20Used%20Languages\&range=all_time)
 
