@@ -7,120 +7,64 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 <table cellspacing="0" cellpadding="0" collapse="collapse">
 <tr>
-<td>
-  <a href="https://ui2code.com" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/ui2code.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>UI2Code</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com">
+    <img src="./resources/sites/ui2code.svg" width="50" />
+    <br />
+    <sup>UI2Code</sup>
   </a>
 </td>
-<td>
-  <a href="https://votacaobrasil.com.br" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/votacaobrasil.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Votação Brasil</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://votacaobrasil.com.br">
+    <img src="./resources/sites/votacaobrasil.svg" width="50" />
+    <br />
+    <sup>Votação Brasil</sup>
   </a>
 </td>
-<td>
-  <a href="https://opresentear.com.br" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/opresentear.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>O Presentear</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://opresentear.com.br">
+    <img src="./resources/sites/opresentear.svg" width="50" />
+    <br />
+    <sup>O Presentear</sup>
   </a>
 </td>
-<td>
-  <a href="https://togakurecss.com" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/togakure.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Togakure CSS</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://togakurecss.com">
+    <img src="./resources/sites/togakure.svg" width="50" />
+    <br />
+    <sup>Togakure CSS</sup>
   </a>
 </td>
 </tr>
 </table>
 <table cellspacing="0" cellpadding="0" border="0" collapse="collapse">
 <tr>
-<td>
-  <a href="https://terroirdovinho.com.br" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/terroirdovinho.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Terroir do Vinho</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://terroirdovinho.com.br">
+    <img src="./resources/sites/terroirdovinho.svg" width="50" />
+    <br />
+    <sup>Terroir do Vinho</sup>
   </a>
 </td>
-<td>
-  <a href="https://pet2code.com" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/pet2code.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Pet2Code</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://pet2code.com">
+    <img src="./resources/sites/pet2code.svg" width="50" />
+    <br />
+    <sup>Pet2Code</sup>
   </a>
 </td>
-<td>
-  <a href="https://skillblend.com.br" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/skillblend.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Skill Blend</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://skillblend.com.br">
+    <img src="./resources/sites/skillblend.svg" width="50" />
+    <br />
+    <sup>Skill Blend</sup>
   </a>
 </td>
-<td>
-  <a href="https://comercioartesanal.com" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/sites/comercioartesanal.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Comércio Artesanal</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://comercioartesanal.com">
+    <img src="./resources/sites/comercioartesanal.svg" width="50" />
+    <br />
+    <sup>Comércio Artesanal</sup>
   </a>
 </td>
 </tr>
@@ -130,146 +74,76 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 <table cellspacing="0" cellpadding="0" collapse="collapse">
 <tr>
-<td>
-  <a href="https://ui2code.com/blogs/tecnologia" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/tecnologia.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>UI2Code - Tecnologia</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/tecnologia">
+    <img src="./resources/blogs/tecnologia.svg" width="50" />
+    <br />
+    <sup>UI2Code - Tecnologia</sup></td>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/hemersonvianna" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/hemersonvianna.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Hemerson Vianna</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/hemersonvianna">
+    <img src="./resources/blogs/hemersonvianna.svg" width="50" />
+    <br />
+    <sup>Hemerson Vianna</sup></td>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/imhomovies" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/imhomovies.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>IMHO Movies</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/imhomovies">
+    <img src="./resources/blogs/imhomovies.svg" width="50" />
+    <br />
+    <sup>IMHO Movies</sup></td>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/zamenhof" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/zamenhof.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Zamenhof</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/zamenhof">
+    <img src="./resources/blogs/zamenhof.svg" width="50" />
+    <br />
+    <sup>Zamenhof</sup></td>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/saborinstintivo" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/saborinstintivo.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Sabor Instintivo</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/saborinstintivo">
+    <img src="./resources/blogs/saborinstintivo.svg" width="50" />
+    <br />
+    <sup>Sabor Instintivo</sup></td>
   </a>
 </td>
 </tr>
 <tr>
-<td>
-  <a href="https://ui2code.com/blogs/foconocapital" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/foconocapital.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Foco no Capital</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/foconocapital">
+    <img src="./resources/blogs/foconocapital.svg" width="50" />
+    <br />
+    <sup>Foco no Capital</sup>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/jornadarelevante" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/jornadarelevante.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Jornada Relevante</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/jornadarelevante">
+    <img src="./resources/blogs/jornadarelevante.svg" width="50" />
+    <br />
+    <sup>Jornada Relevante</sup>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/sonusetrhythmus" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/sonusetrhythmus.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Sonus et Rhythmus</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/sonusetrhythmus">
+    <img src="./resources/blogs/sonusetrhythmus.svg" width="50" />
+    <br />
+    <sup>Sonus et Rhythmus</sup>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/foradabolha" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/foradabolha.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Fora da bolha</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/foradabolha">
+    <img src="./resources/blogs/foradabolha.svg" width="50" />
+    <br />
+    <sup>Fora da bolha</sup>
   </a>
 </td>
-<td>
-  <a href="https://ui2code.com/blogs/noobdaera8bits" target="_blank">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><sup>Noob da Era 8 bits</sup></td>
-      </tr>
-    </table>
+<td align="center">
+  <a href="https://ui2code.com/blogs/noobdaera8bits">
+    <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
+    <br />
+    <sup>Noob da Era 8 bits</sup>
   </a>
 </td>
 </tr>
