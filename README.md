@@ -4,6 +4,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 
 **Sites**
 
+<p>
 <a href="https://ui2code.com" title="UI2Code">
   <img src="./resources/sites/ui2code.svg" width="50" />
 </a>
@@ -28,11 +29,11 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <a href="https://comercioartesanal.com" title="Comércio Artesanal">
   <img src="./resources/sites/comercioartesanal.svg" width="50" />
 </a>
-
-<br>
+</p>
 
 **Blogs** (ui2code.com)
 
+<p>
 <a href="https://ui2code.com/blogs/tecnologia" title="Tecnologia">
   <img src="./resources/blogs/tecnologia.svg" width="50" />
 </a>
@@ -63,6 +64,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <a href="https://ui2code.com/blogs/noobdaera8bits" title="Noob da Era 8 Bits">
   <img src="./resources/blogs/noobdaera8bits.svg" width="50" />
 </a>
+</p>
 
 **Github Stats** (2023)
 
