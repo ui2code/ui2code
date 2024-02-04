@@ -26,7 +26,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <a href="https://skillblend.com.br" title="Skill Blend">
   <img src="./resources/sites/skillblend.svg" width="50" />
 </a>
-<a href="https://tauristock.com" title="Skill Blend">
+<a href="https://tauristock.com" title="Tauri Stock">
   <img src="./resources/sites/tauristock.svg" width="50" />
 </a>
 <a href="https://comercioartesanal.com" title="Comércio Artesanal">
