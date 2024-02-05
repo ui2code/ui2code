@@ -23,7 +23,7 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <a href="https://pet2code.com" title="Pet2Code">
   <img src="./resources/sites/pet2code.svg" width="50" />
 </a>
-<a href="https://skillblend.com.br" title="Skill Blend">
+<a href="https://skillsmold.com" title="Skill Blend">
   <img src="./resources/sites/skillblend.svg" width="50" />
 </a>
 <a href="https://tauristock.com" title="Tauri Stock">
