@@ -8,23 +8,26 @@ Front-end web developer with over +15 years of experience. Interested in all are
 <a href="https://ui2code.com" title="UI2Code">
   <img src="./resources/sites/ui2code.svg" width="50" />
 </a>
-<a href="https://votacaobrasil.com.br" title="Votação Brasil">
+<a href="https://votacaobrasil.com" title="Votação Brasil">
   <img src="./resources/sites/votacaobrasil.svg" width="50" />
 </a>
-<a href="https://opresentear.com.br" title="O Presentear">
+<a href="https://opresentear.com" title="O Presentear">
   <img src="./resources/sites/opresentear.svg" width="50" />
 </a>
 <a href="https://togakurecss.com" title="Togakure CSS">
   <img src="./resources/sites/togakure.svg" width="50" />
 </a>
-<a href="https://terroirdovinho.com.br" title="Terroir do Vinho">
+<a href="https://terroirdovinho.com" title="Terroir do Vinho">
   <img src="./resources/sites/terroirdovinho.svg" width="50" />
 </a>
 <a href="https://pet2code.com" title="Pet2Code">
   <img src="./resources/sites/pet2code.svg" width="50" />
 </a>
-<a href="https://skillsmold.com" title="Skill Blend">
-  <img src="./resources/sites/skillblend.svg" width="50" />
+<a href="https://calculodasorte.com" title="Cálculo da Sorte">
+  <img src="./resources/sites/calculodasorte.svg" width="50" />
+</a>
+<a href="https://skillsmold.com" title="Skills Mold">
+  <img src="./resources/sites/skillsmold.svg" width="50" />
 </a>
 <a href="https://tauristock.com" title="Tauri Stock">
   <img src="./resources/sites/tauristock.svg" width="50" />
